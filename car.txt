@@ -4,3 +4,5 @@
 4.Maruti 800
 5.Nano
 6.Scross
+7.Waganor
+
